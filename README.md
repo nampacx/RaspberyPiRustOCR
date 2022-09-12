@@ -1,4 +1,4 @@
-# RaspberyPiRustOCR
+# RaspberyPi - Rust - OCR
 
 This repo contains some sample code for an ocr application.
 

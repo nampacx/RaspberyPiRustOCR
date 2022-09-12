@@ -1,0 +1,12 @@
+/mnt/d/projects/projects/private/github/RaspberyPiRustOCR/src/OcrSample/target/debug/deps/libthiserror_impl-9ca0c68297dcb0eb.so: /home/mkoko/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.34/src/lib.rs /home/mkoko/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.34/src/ast.rs /home/mkoko/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.34/src/attr.rs /home/mkoko/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.34/src/expand.rs /home/mkoko/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.34/src/fmt.rs /home/mkoko/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.34/src/generics.rs /home/mkoko/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.34/src/prop.rs /home/mkoko/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.34/src/valid.rs
+
+/mnt/d/projects/projects/private/github/RaspberyPiRustOCR/src/OcrSample/target/debug/deps/thiserror_impl-9ca0c68297dcb0eb.d: /home/mkoko/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.34/src/lib.rs /home/mkoko/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.34/src/ast.rs /home/mkoko/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.34/src/attr.rs /home/mkoko/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.34/src/expand.rs /home/mkoko/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.34/src/fmt.rs /home/mkoko/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.34/src/generics.rs /home/mkoko/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.34/src/prop.rs /home/mkoko/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.34/src/valid.rs
+
+/home/mkoko/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.34/src/lib.rs:
+/home/mkoko/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.34/src/ast.rs:
+/home/mkoko/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.34/src/attr.rs:
+/home/mkoko/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.34/src/expand.rs:
+/home/mkoko/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.34/src/fmt.rs:
+/home/mkoko/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.34/src/generics.rs:
+/home/mkoko/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.34/src/prop.rs:
+/home/mkoko/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.34/src/valid.rs:
